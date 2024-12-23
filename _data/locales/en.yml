@@ -12,7 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: UniversityList
   categories: Categories
-  tags: Field
+  tags: Type
   archives: Timeline
   about: About
 
