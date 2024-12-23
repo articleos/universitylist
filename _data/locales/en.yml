@@ -12,7 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: ArticleOS
   categories: Categories
-  tags: Tags
+  tags: Country
   archives: Timeline
   about: About
 
@@ -24,7 +24,7 @@ search:
 
 panel:
   lastmod: Recently Updated
-  trending_tags: Trending Tags
+  trending_tags: Trending Country
   toc: Contents
 
 copyright:
